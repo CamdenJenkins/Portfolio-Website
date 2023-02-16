@@ -19,72 +19,108 @@ const Portfolio = () => {
             <img src={IMG1} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="project__title" />
+            <img src={IMG2} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="project__title" />
+            <img src={IMG3} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="project__title" />
+            <img src={IMG4} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="project__title" />
+            <img src={IMG5} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="project__title" />
+            <img src={IMG6} alt="project__title" />
           </div>
           <h3>Portfolio Item Title</h3>
-          <a href="https://github.com" className="btn">
-            Github
-          </a>
-          <a href="https://github.com" className="btn btn-primary">
-            Live Demo
-          </a>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/CamdenJenkins"
+              target="_blank"
+              className="btn"
+            >
+              Github
+            </a>
+            <a href="https://github.com" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
         </article>
       </div>
     </section>
