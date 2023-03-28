@@ -42,7 +42,7 @@ const Contact = () => {
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
-        <form ref={form} onSubmit={sendEmail}>
+        {/* <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
@@ -59,7 +59,7 @@ const Contact = () => {
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>
-        </form>
+        </form> */}
       </div>
     </section>
   );
