@@ -30,10 +30,20 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            officia totam molestias consequuntur, perspiciatis aperiam iste
-            maxime quaerat doloremque omnis eligendi culpa accusamus assumenda
-            quae alias distinctio quis inventore ipsam!
+            Welcome to my website! My name is Camden Jenkins, and I'm a
+            fullstack software developer. I have a passion for building software
+            that solves real-world problems and makes people's lives easier.
+            Whether it's creating a website, developing a mobile app, or
+            building a complex software system, I'm always up for a challenge.
+            In my free time, I love listening to music and discovering new
+            artists. I find that music is a great way to unwind after a long day
+            of coding, and it often helps me to think more creatively about my
+            work. I also have two dogs that I adore, and I enjoy spending time
+            with them whenever I can. On this website, you'll find information
+            about my skills and experience as a software developer, as well as
+            some of my personal projects and interests. I hope you enjoy
+            browsing around, and please don't hesitate to contact me if you have
+            any questions or would like to work together on a project.
           </p>
 
           <a href="#contact" className="btn btn-primary">
